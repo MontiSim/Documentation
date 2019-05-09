@@ -1,5 +1,3 @@
 # Documentation
 
-This project moved to :
-* http://www.se-rwth.de/materials/ema_compiler/
-* http://www.se-rwth.de/materials/embeddedmontiarc/
+This project moved to RWTH Aachen. For more information please contact the SE department (se-rwth.de)
